@@ -7,13 +7,13 @@ The main acitivity is a BarCodeTester under the pagckage, com.google.zxing.clien
 I've tried to removed all supplimentary classes except the bar code reading part.
 
 ## Main Activity - BarCodeTester
-<img src="screenshots/Screenshot_20191111-173434.jpg" dalt="BarCodeTester" width="400" height="300" />
+<img src="screentshots/Screenshot_20191111-173434.jpg" dalt="BarCodeTester" width="400" height="300" />
 
 ## BarCode Activity: 
 <!---![Drawing the player](screenshots/chap02.png)---> 
-<img src="screenshots/Screenshot_20191111-173421.jpg" dalt="BarCode Activity" width="400" height="300" />
+<img src="screentshots/Screenshot_20191111-173421.jpg" dalt="BarCode Activity" width="400" height="300" />
 
 ## BarCode Detected Screen: 
 <!---![Drawing the player](screenshots/chap02.png)---> 
-<img src="screenshots/Screenshot_20191111-173448.jpg" dalt="BarCode Activity" width="400" height="300" />
+<img src="screentshots/Screenshot_20191111-173448.jpg" dalt="BarCode Activity" width="400" height="300" />
 
