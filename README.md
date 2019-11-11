@@ -11,7 +11,7 @@ I've tried to removed all supplimentary classes except the bar code reading part
 
 ## BarCode Activity: 
 <!---![Drawing the player](screenshots/chap02.png)---> 
-<img src="screentshots/Screenshot_20191111-173421.jpg" dalt="BarCode Activity" width="400" height="300" />
+<img src="screentshots/Screenshot_20191111-173421-1.jpg" dalt="BarCode Activity" width="400" height="300" />
 
 ## BarCode Detected Screen: 
 <!---![Drawing the player](screenshots/chap02.png)---> 
