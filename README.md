@@ -1,5 +1,5 @@
 # zxing-mini
-This is a simple program from the zxing[site](https://github.com/zxing/zxing) which is an open-source, multi-format 1D/2D barcode image processing library implemented in Java.
+This is a simple program from the [zxing](https://github.com/zxing/zxing) which is an open-source, multi-format 1D/2D barcode image processing library implemented in Java.
 
 I've modified it as a my personal curiosity.
 The main acitivity is a BarCodeTester under the pagckage, com.google.zxing.client.android.mini.test.
