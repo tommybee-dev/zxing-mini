@@ -1,2 +1,2 @@
-D:\DEV\workspaces\zxing_mini\bin\AndroidManifest.xml : \
-D:\DEV\workspaces\zxing_mini\AndroidManifest.xml \
+C:\DEV\DOCS\MyStudy\zxing_mini\bin\AndroidManifest.xml : \
+C:\DEV\DOCS\MyStudy\zxing_mini\AndroidManifest.xml \
